@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todo App</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <h1>Todo List</h1>
+    <form id="form">
+      <input
+        type="text"
+        id="input"
+        class="input"
+        placeholder="Enter your tasks"
+        autocomplete="off"
+      />
+      <ul class="todos" id="todos"></ul>
+    </form>
+    <small
+      >Left click to toggle complete <br />Right click to delete your
+      tasks</small
+    >
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/1.1.1/marked.min.js"></script>
+    <script src="script.js" defer></script>
+  </body>
+</html>
