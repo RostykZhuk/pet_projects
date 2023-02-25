@@ -1,4 +1,5 @@
 # pet_projects
+
 js pet projects
 
 1 Countdown timer.
@@ -40,3 +41,37 @@ https://9-todo-app.netlify.app/
 10 Weather-app.
 Find out the weather in any city you want. API is used for this project.
 https://10-weather-app.netlify.app/
+
+=====================================
+
+react pet projects
+
+1 Birthday reminder.
+https://01-birthday-reminder-react.netlify.app
+
+2 Tours.
+https://02-tours-proj-react.netlify.app
+
+3 Reviews.
+https://03-reviews-proj-react.netlify.app
+
+4 Accordion.
+https://04-accordion-proj-react.netlify.app
+
+5 Menu.
+https://05-menu-proj-react.netlify.app
+
+6 Tabs.
+https://06-tabs-proj-react.netlify.app
+
+7 Slider.
+https://07-slider-proj-react.netlify.app
+
+8 Paragraph generator.
+https://08-lorem-ipsum.netlify.app
+
+9 Color generator.
+https://09-color-generator-proj-react.netlify.app
+
+10 Todo-app.
+https://10-todo-app.netlify.app
