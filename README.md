@@ -75,3 +75,6 @@ https://09-color-generator-proj-react.netlify.app
 
 10 Todo-app.
 https://10-todo-app.netlify.app
+
+11 Pokedex
+https://test-task-done.netlify.app/
