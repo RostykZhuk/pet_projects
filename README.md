@@ -78,3 +78,6 @@ https://10-todo-app.netlify.app
 
 11 Pokedex
 https://test-task-done.netlify.app/
+
+12 Flascard App
+https://react-pet-project-11.netlify.app/
