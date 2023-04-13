@@ -81,3 +81,8 @@ https://test-task-done.netlify.app/
 
 12 Flascard App
 https://react-pet-project-11.netlify.app/
+
+=================
+ts pet projects
+1 Todo List.
+https://ts-pet-project-1.netlify.app/
