@@ -83,6 +83,13 @@ https://test-task-done.netlify.app/
 https://react-pet-project-11.netlify.app/
 
 =================
+
 ts pet projects
 1 Todo List.
 https://ts-pet-project-1.netlify.app/
+
+=================
+FullStack-pet-projects
+1 Workout App
+
+For this project I used Mongo as a Database, Node + Express for server-side, and React for client-side
